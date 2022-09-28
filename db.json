@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Miso Ramen",
+      "restaurant": "Naruto",
+      "image": "https://www.justonecookbook.com/wp-content/uploads/2019/05/Miso-Ramen-I-500x500.jpg",
+      "rating": "4",
+      "comment": "dss",
+      "id": 6
     }
   ]
 }
